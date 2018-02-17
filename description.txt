@@ -1,0 +1,11 @@
+                                       CONTACT  MANAGEMENT  SYSTEM
+
+Contact  management  system  is  a very   simple application devoloped  using  c-language. It  does not  contain  any  graphics. It  is similar  to  contact  manager  in  cell  phones.
+
+In this project you can add,veiw,edit,delete,search contacts.All added and edited records are saved in a file.You can list contacts by name,phone no,e-mail,address.
+
+File handling hasbeen used to record all the received data.I have used switch case,arrays,files and structures in this program to store the user name,phone number,e-mail address.
+
+Overall it is used to add,edit,remove and delete any data using file concepts.
+
+since this is my first project in c-language,the program contains some errors .I contributed my 100% to clear the errors but I can't clear some error that is out of my knowledge.
