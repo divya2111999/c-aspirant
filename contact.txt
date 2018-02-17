@@ -1,0 +1,15 @@
+                                                                      CONTACT LIST
+name:arun
+phone no:9876977684
+e-mail address:arun769@gmail.com
+address:chennai
+
+name:sowmiya
+phone no:8976686894
+e-mail address:sowmiya@yahoo.com
+address:coimbatore
+
+name:vidya
+phone no:9457983574
+e-mail address:vidya@rediffmail.com
+address:trichy
